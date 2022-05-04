@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "johnsoncodehk.volar",
+    "syler.sass-indented",
+    "ryuta46.multi-command",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "hollowtree.vue-snippets",
+    "mrmlnc.vscode-postcss-sorting",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
